@@ -1,0 +1,7 @@
+data;descricao;valor;tipo;categoria
+2026-10-01;Salário;5200.00;receita;Renda
+2026-10-02;Aluguel;1700.00;despesa;Moradia
+2026-10-05;Mercado;342,75;despesa;Alimentação
+2026-10-10;Transporte;120.00;despesa;Transporte
+2026-10-12;Cinema;85.00;despesa;Lazer
+2026-10-20;Projeto freelance;750.00;receita;Renda extra
